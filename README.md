@@ -1,7 +1,7 @@
 # Animals in Adoption Landing Page
 
-- Used bootstrap tools & own styles.
-- Implemented responsive template.
+ ⭐ Used bootstrap tools & own styles.
+⭐ Implemented responsive template.
 
 
 ![Demo iPad](img/demo-ipad.gif)
