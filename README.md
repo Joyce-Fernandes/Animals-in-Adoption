@@ -1,8 +1,8 @@
 # Animals in Adoption Landing Page
 
- ⭐ Used bootstrap tools & own styles.
-⭐ Implemented responsive template.
+ #### ⭐ Used bootstrap tools & own styles.
+#### ⭐ Implemented responsive template.
 
-
-![Demo iPad](img/demo-ipad.gif)
-![Demo iPhone](img/demo-iphone.gif)
+#
+<img height=" 450px" align="left" src="img/demo-ipad.gif" alt="Demo iPad" /> 
+<img height=" 350px" align="center" src="img/demo-iphone.gif" alt="Demo iPhone" /> 
